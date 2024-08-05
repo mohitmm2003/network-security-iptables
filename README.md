@@ -5,7 +5,7 @@
 Iptables is a Linux-based firewall application that controls incoming and outgoing traffic. It is a powerful tool that can be used to secure a server, limit access to specific applications or services, and mitigate risk of malicious attacks. This article will provide an introduction to iptables, its purpose, and its basic usage.
 
 ## What is iptables?
-Iptables is a firewall application that works with Linux kernel. It controls incoming and outgoing traffic and provides a mechanism to filter, block, or allow traffic based on various criteria, such as port number, IP address, protocol, and more. Iptables is designed to protect system from unauthorized access and provide a secure environment for applications and services.<br>
+Iptables is a firewall application that works with Linux kernel. It controls incoming and outgoing traffic and provides a mechanism to filter, block, or allow traffic based on various criteria, such as port number, IP address, protocol, and more. Iptables is designed to protect system from unauthorized access and provide a secure environment for applications and services.
 
 ## How does 'iptables' work?
 **Packets**: 
