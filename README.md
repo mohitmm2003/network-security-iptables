@@ -1,13 +1,13 @@
 # The Complete 'iptables' Guide: Protecting Your Network
 *Whether you're a beginner looking to understand the basics or an experienced user seeking advanced techniques, this guide offers a thorough exploration of configuring firewalls using iptables. With practical examples and step-by-step instructions, this guide empowers you to safeguard your Linux systems effectively and efficiently*.
 
-## Introduction to iptables
+## Introduction to 'iptables'
 Iptables is a Linux-based firewall application that controls incoming and outgoing traffic. It is a powerful tool that can be used to secure a server, limit access to specific applications or services, and mitigate risk of malicious attacks. This article will provide an introduction to iptables, its purpose, and its basic usage.
 
 ## What is iptables?
 Iptables is a firewall application that works with Linux kernel. It controls incoming and outgoing traffic and provides a mechanism to filter, block, or allow traffic based on various criteria, such as port number, IP address, protocol, and more. Iptables is designed to protect system from unauthorized access and provide a secure environment for applications and services.<br>
 
-## How does iptables work?
+## How does 'iptables' work?
 **Packets**: 
 Data sent over the internet is broken into small pieces called packets. These packets contain information like the source, destination, and type of data.
 
@@ -26,7 +26,7 @@ Block the packet without any notification.
 **REJECT**: 
 Block the packet but send a notification back.
 
-## How is iptables Organized?
+## How is 'iptables' Organized?
 
 **Tables**:
 There are different tables in iptables for different types of processing:
