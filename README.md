@@ -207,7 +207,7 @@ To install `iptables` on your system, you'll need to follow different steps depe
    sudo sh -c 'sudo sh -c '/sbin/iptables-save > /etc/iptables/rules.v4'
    ```
 
-   Alternatively (for IPv4):
+   Alternatively (for IPv6):
    ```bash
    sudo sh -c 'sudo sh -c '/sbin/ip6tables-save > /etc/iptables/rules.v6'
    ```
